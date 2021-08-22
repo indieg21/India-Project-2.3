@@ -1,2 +1,6 @@
-# India-Project-2.3
-India Project 2.3 Git Pages
+Thanks for downloading this template!
+
+Template Name: Regna
+Template URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
